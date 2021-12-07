@@ -1,0 +1,11 @@
+D:\C#\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.deps.json
+D:\C#\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.json
+D:\C#\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.dev.json
+D:\C#\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.dll
+D:\C#\Observer\Observer\bin\Debug\netcoreapp2.1\Observer.pdb
+D:\C#\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.csprojAssemblyReference.cache
+D:\C#\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.csproj.CoreCompileInputs.cache
+D:\C#\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfoInputs.cache
+D:\C#\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfo.cs
+D:\C#\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.dll
+D:\C#\Observer\Observer\obj\Debug\netcoreapp2.1\Observer.pdb
